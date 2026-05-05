@@ -53,5 +53,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=nicolaeser&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
+[![t](https://visitcount.itsvg.in/api?id=nicolaeser&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
+
+
 [![wakatime](https://wakatime.com/badge/user/2b8e62dc-47d0-49b9-a826-6584ce027a6b.svg)](https://wakatime.com/@2b8e62dc-47d0-49b9-a826-6584ce027a6b)
