@@ -7,13 +7,12 @@
   
 <summary> 🌐 Socials: </summary>
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ipexadev) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/liveipexa) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicolaeser) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ipexadev) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ipexatweet) 
 
 </details>
 
-<details>
   
 <summary> 💻 Tech Stack: </summary>
 
@@ -34,8 +33,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
   
-</details>
-
 <details>
   
 <summary> 📊 GitHub Stats: </summary>
@@ -54,15 +51,9 @@
   
 </details>
 
-<details>
-  
-<summary> 😂 Random Dev Meme </summary>
-  
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-  
-</details>
+
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=nicolaeser&icon=0&color=0)](https://visitcount.itsvg.in) 
+[![](https://visitcount.itsvg.in/api?id=nicolaeser&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/2b8e62dc-47d0-49b9-a826-6584ce027a6b.svg)](https://wakatime.com/@2b8e62dc-47d0-49b9-a826-6584ce027a6b)
