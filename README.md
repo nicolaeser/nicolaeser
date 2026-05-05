@@ -32,9 +32,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
-  
-<details>
-  
+    
 <summary> 📊 GitHub Stats: </summary>
   
 ![](https://github-readme-stats.vercel.app/api?username=nicolaeser&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
