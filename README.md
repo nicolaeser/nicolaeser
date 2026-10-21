@@ -1,17 +1,8 @@
-<br>
-
-<img src="https://wakatime.com/share/@2b8e62dc-47d0-49b9-a826-6584ce027a6b/68cc7086-9268-4714-9ef3-1229d07d7559.png" width="300" height="200" /></a>
-<img src="https://wakatime.com/share/@2b8e62dc-47d0-49b9-a826-6584ce027a6b/f7e44973-b636-4ad0-ad79-7e03146f6a92.png" width="300" height="200" /></a>
-
-<details>
   
-<summary> 🌐 Socials: </summary>
-  
+🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicolaeser) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ipexadev) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nicolaeser) 
-
-</details>
 
   
 <summary> 💻 Tech Stack: </summary>
@@ -50,10 +41,3 @@
 </details>
 
 
-
----
-
-[![t](https://visitcount.itsvg.in/api?id=nicolaeser&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
-
-
-[![wakatime](https://wakatime.com/badge/user/2b8e62dc-47d0-49b9-a826-6584ce027a6b.svg)](https://wakatime.com/@2b8e62dc-47d0-49b9-a826-6584ce027a6b)
